@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gavinbroekema.github.io/course-directory/static/css/main.cce71042.css",
+    "main.js": "/gavinbroekema.github.io/course-directory/static/js/main.053c1326.js",
+    "index.html": "/gavinbroekema.github.io/course-directory/index.html",
+    "main.cce71042.css.map": "/gavinbroekema.github.io/course-directory/static/css/main.cce71042.css.map",
+    "main.053c1326.js.map": "/gavinbroekema.github.io/course-directory/static/js/main.053c1326.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cce71042.css",
+    "static/js/main.053c1326.js"
+  ]
+}
